@@ -1,0 +1,15 @@
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\bin\Debug\net7.0\Задачи от Сереги.exe
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\bin\Debug\net7.0\Задачи от Сереги.deps.json
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\bin\Debug\net7.0\Задачи от Сереги.runtimeconfig.json
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\bin\Debug\net7.0\Задачи от Сереги.dll
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\bin\Debug\net7.0\Задачи от Сереги.pdb
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\Задачи от Сереги.csproj.AssemblyReference.cache
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\Задачи от Сереги.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\Задачи от Сереги.AssemblyInfoInputs.cache
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\Задачи от Сереги.AssemblyInfo.cs
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\Задачи от Сереги.csproj.CoreCompileInputs.cache
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\Задачи от Сереги.dll
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\refint\Задачи от Сереги.dll
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\Задачи от Сереги.pdb
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\Задачи от Сереги.genruntimeconfig.cache
+C:\Users\Данёчек\source\repos\домашниее задания\Задачи от Сереги\obj\Debug\net7.0\ref\Задачи от Сереги.dll
