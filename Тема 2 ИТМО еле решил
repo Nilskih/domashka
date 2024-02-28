@@ -24,7 +24,7 @@
 
          //третья задача с треугольником
             double x3; double y3;      // x1 и x2 уже объявлены выше, просто я использую их в новой задаче
-            x1 = 4; x2 = 10; x3 = 10; y1 = 7; y2 = 7; y3 = 3;     // даны координаты трех вершин
+            x1 = 4; x2 = 10; x3 = 10; y1 = 7; y2 = 7; y3 = 3;     // даны координаты трех вершин. Я их так закидал некрасиво, чтобы они место не занимали.
             double storona1 = Math.Sqrt(Math.Pow(Math.Abs(x1 - x2), 2) + Math.Pow(Math.Abs(y1 - y2), 2));
             double storona2 = Math.Sqrt(Math.Pow(Math.Abs(x2 - x3), 2) + Math.Pow(Math.Abs(y2 - y3), 2));
             double storona3 = Math.Sqrt(Math.Pow(Math.Abs(x3 - x1), 2) + Math.Pow(Math.Abs(y3 - y1), 2));
