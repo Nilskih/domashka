@@ -1,0 +1,8 @@
+C:\Users\Данёчек\source\repos\домашниее задания\Lesson4Cycles\task1\bin\Debug\task1.exe.config
+C:\Users\Данёчек\source\repos\домашниее задания\Lesson4Cycles\task1\bin\Debug\task1.exe
+C:\Users\Данёчек\source\repos\домашниее задания\Lesson4Cycles\task1\bin\Debug\task1.pdb
+C:\Users\Данёчек\source\repos\домашниее задания\Lesson4Cycles\task1\obj\Debug\task1.csproj.AssemblyReference.cache
+C:\Users\Данёчек\source\repos\домашниее задания\Lesson4Cycles\task1\obj\Debug\task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данёчек\source\repos\домашниее задания\Lesson4Cycles\task1\obj\Debug\task1.csproj.CoreCompileInputs.cache
+C:\Users\Данёчек\source\repos\домашниее задания\Lesson4Cycles\task1\obj\Debug\task1.exe
+C:\Users\Данёчек\source\repos\домашниее задания\Lesson4Cycles\task1\obj\Debug\task1.pdb
